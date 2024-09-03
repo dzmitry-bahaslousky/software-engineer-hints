@@ -11,7 +11,7 @@ CREATE TABLE Employees (
 );
 ```
 
-2. **FOREIGN KEY**:
+2. **[[FOREIGN KEY]]**:
 	- Enforces referential integrity between two tables.
 	- The value in the foreign key column must match a value in the primary key column of another table or be `NULL`.
 ```sql
@@ -22,7 +22,7 @@ CREATE TABLE Orders (
 );
 ```
 
-3. **UNIQUE**:
+3. **[[UNIQUE]]**:
 	- Ensures all values in a column or a group of columns are unique.
 	- Allows `NULL` values, but each `NULL` must be unique.
 ```sql
