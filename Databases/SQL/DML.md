@@ -2,14 +2,14 @@
 
 ## Key DML Commands:
 
-1. **INSERT**: Used to add new records to a table.
+1. **[[INSERT]]**: Used to add new records to a table.
 
 ```sql
 INSERT INTO Employees (id, name, salary) 
 VALUES (1, 'John Doe', 50000);
 ```
 
-2. **UPDATE**: Used to modify existing records in a table.
+2. **[[UPDATE]]**: Used to modify existing records in a table.
 
 ```sql
 UPDATE Employees 
@@ -17,14 +17,14 @@ SET salary = 55000
 WHERE id = 1;
 ```
 
-3. **DELETE**: Used to remove records from a table.
+3. **[[DELETE]]**: Used to remove records from a table.
 
 ```sql
 DELETE FROM Employees 
 WHERE id = 1;
 ```
 
-4. **SELECT**: Used to retrieve data from one or more tables.
+4. **[[SELECT]]**: Used to retrieve data from one or more tables.
 
 ```sql
 SELECT * FROM Employees;

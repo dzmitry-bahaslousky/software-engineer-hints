@@ -39,7 +39,7 @@ SELECT first_name, last_name FROM employees WHERE department = 'Sales';
 SELECT department, COUNT(*) FROM employees GROUP BY department;
 ```
 
-**HAVING Clause**:
+**[[HAVING]] Clause**:
 - The `HAVING` clause is similar to `WHERE` but is used to filter groups after aggregation, particularly when you use `GROUP BY`.
 ```sql
 SELECT department, COUNT(*) 

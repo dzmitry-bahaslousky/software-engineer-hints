@@ -1,4 +1,4 @@
-# Scalability
+# [[Scalability]]
 
 The ability of a system to handle increasing workloads or numbers of users without significant performance degradation. A scalable system should effectively adapt to changing demands, whether through resource addition (horizontal or vertical scaling) or optimization of code and infrastructure.
 
