@@ -1,0 +1,1 @@
+https://www.jimmybogard.com/vertical-slice-architecture/
